@@ -33,4 +33,3 @@ Function Calculate-File-Hash {
     $filehash = Get-FileHash -Path $filepath -Algorithm SHA512
     return $filehash
 }
-
