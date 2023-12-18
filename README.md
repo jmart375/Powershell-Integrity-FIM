@@ -33,3 +33,15 @@ Function Calculate-File-Hash {
     $filehash = Get-FileHash -Path $filepath -Algorithm SHA512
     return $filehash
 }
+```
+## Screenshots
+
+<p align="center">
+Alert: file has been deleted, changed, and created:  <br/>
+<img src="https://imgur.com/TA1Qzp4.png" height="80%" width="80%" alt="VirtualBox"/>
+<br />
+<br />
+Alert: file has been deleted:  <br/>
+<img src="https://imgur.com/7207Khw.png" height="80%" width="80%" alt="VirtualBox"/>
+<br />
+<br />
