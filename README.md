@@ -1,3 +1,5 @@
+![images](https://github.com/jmart375/Powershell-Integrity-FIM/assets/91294710/1332fe25-4703-4495-8454-43d6e5698a37)
+
 # File Integrity Monitoring Project
 
 ## Overview
